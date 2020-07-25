@@ -1,0 +1,5 @@
+build/*
+deps/fmt/build/*
+deps/SDL2pp/build/*
+deps/spdlog/build/*
+.vscode
